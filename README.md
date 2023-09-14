@@ -26,4 +26,4 @@ code .
 
 [***MIT***]()
 
-    ![Alt text](image.png)
+    ![GIT](image.png)
